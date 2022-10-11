@@ -1,3 +1,9 @@
+# React Roshambo Game
+
+<p align="center">
+  <img border="0" alt="react-context-api" src="/src/gif.gif">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
