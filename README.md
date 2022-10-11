@@ -1,4 +1,4 @@
-# React Roshambo Game
+# React Context API
 
 <p align="center">
   <img border="0" alt="react-context-api" src="/src/gif.gif">
